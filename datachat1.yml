@@ -11,5 +11,5 @@ resources:
   - link: "https://en.wikipedia.org/wiki/Statistics"
     link_text: "Wikipedia Article"
     description: "Read this article about Statistics."
-instructor: test_student@datacamp.com
-interviewer: test_student@datacamp.com
+instructor: filip@datacamp.com
+interviewer: vincent@datacamp.com
