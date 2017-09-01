@@ -14,5 +14,5 @@ resources:
   - link: "https://quivr.be"
     link_text: "Quivr"
     description: "The best app for students"
-instructor: test_student@datacamp.com
-interviewer: test_student@datacamp.com
+instructor: vincent@datacamp.com
+interviewer: filip@datacamp.com
