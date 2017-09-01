@@ -1,11 +1,15 @@
-title: Datachat video
-description: This is a template datachat video, it's very cool.
-interviewer: filip.schouwenaars@gmail.com
-instructor: filip.schouwenaars@gmail.com
-video_hls_link: //videos.datacamp.com/transcoded/672_intermediate_r/v2/hls-ch1_1.master.m3u8
-topic: Templating
+title: DataChat Number one
+description: "The description of this datachat. It is awesome."
+video_hls_link: //videos.datacamp.com/transcoded/682_intro_to_ml/v2/hls-ch1_1.master.m3u8
+video_mp4_link: //videos.datacamp.com/transcoded_mp4/682_intro_to_ml/v2/ch1_1.mp4
 language: R
+topic: ML
 resources:
- - link: https://en.wikipedia.org/wiki/Statistics
-   link_text: Wikipedia Article
-   description: Read this article about Statistics
+  - link: "https://en.wikipedia.org/wiki/Machine_learning"
+    link_text: "Wikipedia Article"
+    description: "Read this article about Machine Learning."
+  - link: "https://en.wikipedia.org/wiki/Statistics"
+    link_text: "Wikipedia Article"
+    description: "Read this article about Statistics."
+instructor: test_student@datacamp.com
+interviewer: test_student@datacamp.com
