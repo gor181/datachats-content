@@ -1,0 +1,18 @@
+title: The second DataChat
+description:  "The description of this second datachat. It is awesome. It's true."
+video_hls_link: //videos.datacamp.com/transcoded/682_intro_to_ml/v1/hls-ch1_2.master.m3u8
+video_mp4_link: //videos.datacamp.com/transcoded_mp4/682_intro_to_ml/v2/ch1_2.mp4
+language: R
+topic: ML
+resources:
+  - link: "https://en.wikipedia.org/wiki/Machine_learning"
+    link_text: "Wikipedia Article"
+    description: "Read this article about Machine Learning."
+  - link: "https://en.wikipedia.org/wiki/Statistics"
+    link_text: "Wikipedia Article"
+    description: "Read this article about Statistics."
+  - link: "https://quivr.be"
+    link_text: "Quivr"
+    description: "The best app for students"
+instructor: test_student@datacamp.com
+interviewer: test_student@datacamp.com
