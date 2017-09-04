@@ -1,5 +1,7 @@
+id: 5
 title: The second DataChat
 description:  "The description of this second datachat. It is awesome. It's true."
+projector_key: a23c9d9c81924c2342bf5480adb0ffd2
 video_hls_link: //videos.datacamp.com/transcoded/682_intro_to_ml/v1/hls-ch1_2.master.m3u8
 video_mp4_link: //videos.datacamp.com/transcoded_mp4/682_intro_to_ml/v2/ch1_2.mp4
 language: R
