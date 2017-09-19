@@ -1,8 +1,9 @@
+id: 11
 title: An Interview With David Robinson, Data Scientist at Stack Overflow
 description: "Dave is a Data Scientist at Stack Overflow and well known for his blog Variance Explained. 
 He talks about his passion for blogging, the importance of building a data science portfolio, why you should learn SQL 
 and much more."
-projector_key:
+projector_key: e516e6c488095169c4080ec311b3ab81
 video_mp4_link: //videos.datacamp.com/interviews/Dave_Robinson_interview.mp4
 thumbnail_link:
 language: R
