@@ -1,0 +1,14 @@
+title: An Interview With Charlotte Wickham
+description: "Charlotte is an Assistant Professor in the Department of Statistics at Oregon State University 
+and an avid R programmer with a passion for teaching. She talks us through her first exposure to R, why a tool like 
+GitHub is fantastic, and how to use your cat and a GPS tracker to collect data for your R coding experiments :-)"
+projector_key: 84beae062ab16558868a09aed18f8181
+video_mp4_link: //videos.datacamp.com/interviews/Charlotte_Wickham_interview.mp4
+language: R
+topic: Statistics
+resources:
+  - link: "https://www.datacamp.com/courses/working-with-geospatial-data-in-r"
+    link_text: "Working with Geospatial Data in R"
+    description: "Charlotte's Geospatial Data in R course."
+instructor: cwickham@gmail.com
+interviewer: nick@datacamp.com
