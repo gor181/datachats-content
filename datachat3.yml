@@ -1,8 +1,9 @@
+id: 10
 title: An Interview With Charlotte Wickham
 description: "Charlotte is an Assistant Professor in the Department of Statistics at Oregon State University 
 and an avid R programmer with a passion for teaching. She talks us through her first exposure to R, why a tool like 
 GitHub is fantastic, and how to use your cat and a GPS tracker to collect data for your R coding experiments :-)"
-projector_key: 
+projector_key: 81e8ca70e51850dc03fc9774f766eed5
 video_mp4_link: //videos.datacamp.com/interviews/Charlotte_Wickham_interview.mp4
 language: R
 topic: Statistics
