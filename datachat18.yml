@@ -1,0 +1,12 @@
+title: An Interview With Deepayan Sarkar
+description: "Deepayan is an Associate Professor at the Indian Statistical Institute, and a member of R-Core. 
+He is the creator of the lattice package, and the author of the corresponding book Lattice - Multivariate Data Visualization with R."
+video_mp4_link: //videos.datacamp.com/interviews/Deepayan_Sarkar_interview.mp4
+language: R
+topic: Data Visualization
+resources:
+  - link: "https://www.datacamp.com/courses/data-visualization-in-r-with-lattice"
+    link_text: "Data Visualization in R with lattice"
+    description: "Deepayan's course on Data Visualization in R with lattice."
+instructor: deepayan.sarkar@gmail.com
+interviewer: nick@datacamp.com

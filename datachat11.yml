@@ -1,0 +1,12 @@
+title: An Interview With Ben Wilson
+description: "Ben is a machine learning specialist and the director of research at lateral.io. He is passionate about learning 
+and has worked as a data scientist in real-time bidding, e-commerce, and recommendation. Ben holds a PhD in mathematics and a degree in computer science."
+video_mp4_link: //videos.datacamp.com/interviews/Ben_Wilson_interview.mp4
+language: Python
+topic: ML
+resources:
+  - link: "https://www.datacamp.com/courses/unsupervised-learning-in-python"
+    link_text: "Unsupervised Learning in Python"
+    description: "Ben's Unsupervised Learning in Python course."
+instructor: benjamin@asmusas.net
+interviewer: hugo@datacamp.com

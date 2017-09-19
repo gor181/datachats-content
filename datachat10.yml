@@ -1,0 +1,14 @@
+title: An Interview With Clifford Ang
+description: "Clifford is a Vice President at Compass Lexecon. He specializes in valuation, corporate finance, and damages, 
+and has worked on hundreds of engagements involving companies across a broad spectrum of industries. 
+He is the author of Analyzing Financial Data and Implementing Financial Models Using R. 
+Together with Lore, Clifford goes over his interest in Finance, his course Bond Valuation and Analysis in R, his latest book and more."
+video_mp4_link: //videos.datacamp.com/interviews/Cliff_Ang_interview.mp4
+language: R
+topic: Finance
+resources:
+  - link: "https://www.datacamp.com/courses/bond-valuation-and-analysis-in-r"
+    link_text: "Bond Valuation and Analysis in R"
+    description: "Cliff's Bond Valuation and Analysis in R course."
+instructor: csa@cliffordang.com
+interviewer: lore@datacamp.com

@@ -1,0 +1,16 @@
+title: An Interview With David Stoffer
+description: "David Stoffer is a Professor of Statistics at the University of Pittsburgh. 
+He is member of the editorial board of the Journal of Time Series Analysis and Journal of Forecasting. 
+David is the coauthor of the book "Time Series Analysis and Its Applications: With R Examples", which is the basis of his course. 
+Another (free) book he wrote on Time Series Analysis is available here: http://www.stat.pitt.edu/stoffer/tsa4...
+
+Together with Lore, David talks about his path to Statistics, his teaching method, his latest book, how he got into R, and much more."
+video_mp4_link: //videos.datacamp.com/interviews/David_Stoffer_interview.mp4
+language: R
+topic: Statistics
+resources:
+  - link: "https://www.datacamp.com/courses/arima-modeling-with-r"
+    link_text: "ARIMA Modeling with R"
+    description: "David's ARIMA Modeling with R course."
+instructor: stoffer@pitt.edu  
+interviewer: lore@datacamp.com

@@ -1,0 +1,22 @@
+title: An Interview With Dhavide Aruliah
+description: "Dhavide Aruliah is Director of Training at Anaconda, the leading 
+Open Data Science platform powered by Python. Dhavide was previously an Associate Professor at the University of Ontario Institute of Technology (UOIT). 
+He served as Program Director for various undergraduate & postgraduate programs at UOIT. His research interests include computational inverse problems, 
+numerical linear algebra, & high-performance computing.
+
+Together with Hugo, Dhavide goes over the process of designing a course, his work at Anaconda, his path to Python and more." 
+video_mp4_link: //videos.datacamp.com/interviews/Dhavide_Aruliah_interview.mp4
+language: Python
+topic: Data Manipulation
+resources:
+  - link: "https://www.datacamp.com/courses/pandas-foundations"
+    link_text: "pandas Foundations"
+    description: "Anaconda's first pandas course."
+  - link: "https://www.datacamp.com/courses/manipulating-dataframes-with-pandas"
+    link_text: "Manipulating DataFrames with pandas"
+    description: "Anaconda's second pandas course."
+  - link: "https://www.datacamp.com/courses/merging-dataframes-with-pandas"
+    link_text: "Merging DataFrames with pandas"
+    description: "Anaconda's third pandas course."
+instructor: continuum@continuum.com
+interviewer: hugo@datacamp.com

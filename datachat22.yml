@@ -1,0 +1,17 @@
+title: An Interview With Nina Zumel and John Mount
+description: "Nina is a co-founder and principal consultant at Win-Vector LLC, a San Francisco data science consultancy. 
+She is co-author of the popular text Practical Data Science with R and occasionally 
+blogs at the Win-Vector Blog on data science and R. Her technical interests include data science, statistics, statistical learning, and data visualization.
+
+John is a co-founder and principal consultant at Win-Vector LLC, a San Francisco data science consultancy. 
+He is the author of several R packages, including the data treatment package vtreat. John is co-author of Practical Data Science with R 
+and blogs at the Win-Vector Blog about data science and R programming. His interests include data science, statistics, R programming, and theoretical computer science."
+video_mp4_link: //videos.datacamp.com/interviews/Nina_Zumel_and_John_Mount_interview.mp4
+language: R
+topic: ML
+resources:
+  - link: "https://www.datacamp.com/courses/supervised-learning-in-r-regression"
+    link_text: "Supervised Learning in R: Regression"
+    description: "Nina's and John's course on Supervised Learning."
+instructor: nzumel@win-vector.com, jmount@win-vector.com
+interviewer: richie@datacamp.com

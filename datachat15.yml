@@ -1,0 +1,17 @@
+title: An Interview With Peter Bull
+description: "Peter is a co-founder of DrivenData. He earned his master's in Computational Science and Engineering from 
+Harvard’s School of Engineering and Applied Sciences. His work lies at the intersection of statistics and computer science,
+and he wants to help bring powerful new modeling 
+techniques to the organizations that need them most. He previously worked as a software engineer at Microsoft and earned a BA in philosophy from Yale University.
+
+Here, Peter and Hugo discuss why use python for data science, the business case for data, 
+DrivenData competitions on using yelp data to predict restaurant sanitary ratings and much more."
+video_mp4_link: //videos.datacamp.com/interviews/Peter_Bull_interview.mp4
+language: Python
+topic: ML
+resources:
+  - link: "https://www.datacamp.com/courses/machine-learning-with-the-experts-school-budgets"
+    link_text: "Machine Learning with the Experts: School Budgets"
+    description: "Peter's DrivenData case study course."
+instructor: peter@drivendata.org
+interviewer: hugo@datacamp.com

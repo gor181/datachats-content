@@ -1,0 +1,12 @@
+title: An Interview With Brett Lantz
+description: "Brett Lantz is a data scientist at the University of Michigan and the author of Machine Learning with R. 
+After training as a sociologist, Brett has applied his endless thirst for data to projects that involve understanding and predicting human behavior."
+video_mp4_link: //videos.datacamp.com/interviews/Brett_Lantz_interview.mp4
+language: R
+topic: Statistics
+resources:
+  - link: "https://www.datacamp.com/courses/supervised-learning-in-r-classification"
+    link_text: "Supervised Learning in R: Classification"
+    description: "Brett's Supervised Learning course."
+instructor: lantzb@umich.edu
+interviewer: nick@datacamp.com

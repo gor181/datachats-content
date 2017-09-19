@@ -1,0 +1,14 @@
+title: An Interview With Hank Roark
+description: "Hank Roark answers Nick's questions about his career into data science, 
+job automation, the importance of communicating your results as a data scientist in both directions and much more!"
+projector_key: 
+video_mp4_link: //videos.datacamp.com/interviews/Hank_Roark_interview.mp4
+thumbnail_link:
+language: R
+topic: ML
+resources:
+  - link: "https://www.datacamp.com/courses/unsupervised-learning-in-r"
+    link_text: "Unsupervised Learning in R"
+    description: "Hank's Unsupervised Learning in R course."
+instructor: hankroark@datacamp.com  
+interviewer: nick@datacamp.com

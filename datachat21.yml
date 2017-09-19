@@ -1,0 +1,11 @@
+title: An Interview With Arnaud Amsellem
+description: "Arnaud has over 20 years of experience as a quantitative trader. He is creator and author of the R Trader blog (www.thertrader.com)."
+video_mp4_link: //videos.datacamp.com/interviews/Arnaud_Amsellem_interview.mp4
+language: R
+topic: Statistics
+resources:
+  - link: "https://www.datacamp.com/courses/visualizing-time-series-data-in-r"
+    link_text: "Visualizing Time Series Data in R"
+    description: "Arnaud's course on visualizing time series data in R."
+instructor: thertrader@gmail.com  
+interviewer: lore@datacamp.com
