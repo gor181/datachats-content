@@ -1,14 +1,13 @@
 id: 4
 title: DataChats | Episode 1 | An Interview With Max Kuhn, Creator of Caret
-description: "In this episode of DataChats Nick talks with Max Kuhn, the creator of the caret package for R. 
-Max is a frequent speaker at many of the main data science conferences and is well known as the creator of the caret package 
-for R, an essential tool in every R user’s machine learning toolbox. 
+description: "In this episode of DataChats Nick talks with Max Kuhn, the creator of the caret package for R.
+Max is a frequent speaker at many of the main data science conferences and is well known as the creator of the caret package
+for R, an essential tool in every R user’s machine learning toolbox.
 
-In this 30 min conversation, Max talks about how he originally wanted to become a journalist, why he defines himself as a 
-statistician rather than a data scientist, his thoughts on deep learning, strategies for breaking into the field, 
+In this 30 min conversation, Max talks about how he originally wanted to become a journalist, why he defines himself as a
+statistician rather than a data scientist, his thoughts on deep learning, strategies for breaking into the field,
 and much more."
 projector_key: 84beae062ab16558868a09aed18f8181
-video_hls_link: 
 video_mp4_link: //videos.datacamp.com/interviews/Max_Kuhn_interview.mp4
 language: R
 topic: ML

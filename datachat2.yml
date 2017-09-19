@@ -1,12 +1,11 @@
 id: 5
 title: DataChats | Episode 2 | An Interview With Garrett Grolemund, Data Scientist at RStudio
-description:  "In this second episode, we interview Garrett Grolemund. 
+description:  "In this second episode, we interview Garrett Grolemund.
 
-Garrett is a Data Scientist at RStudio and the author of Hands-On Programming with R and 
-R for Data Science from O'Reilly Media. He talks us through how he discovered R, the evolution of R, 
+Garrett is a Data Scientist at RStudio and the author of Hands-On Programming with R and
+R for Data Science from O'Reilly Media. He talks us through how he discovered R, the evolution of R,
 what data science means to him and much more. "
 projector_key: a23c9d9c81924c2342bf5480adb0ffd2
-video_hls_link: 
 video_mp4_link: //videos.datacamp.com/interviews/Garret_Grolemund_interview.mp4
 language: R
 topic: R Programming
