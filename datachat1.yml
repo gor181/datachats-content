@@ -1,18 +1,20 @@
 id: 4
-title: DataChat Number one
-description: "The description of this datachat. It is awesome. It's true."
+title: DataChats | Episode 1 | An Interview With Max Kuhn, Creator of Caret
+description: "In this episode of DataChats Nick talks with Max Kuhn, the creator of the caret package for R. 
+Max is a frequent speaker at many of the main data science conferences and is well known as the creator of the caret package 
+for R, an essential tool in every R user’s machine learning toolbox. 
+
+In this 30 min conversation, Max talks about how he originally wanted to become a journalist, why he defines himself as a 
+statistician rather than a data scientist, his thoughts on deep learning, strategies for breaking into the field, 
+and much more."
 projector_key: 84beae062ab16558868a09aed18f8181
-video_hls_link: //videos.datacamp.com/transcoded/682_intro_to_ml/v2/hls-ch1_1.master.m3u8
-video_mp4_link: //videos.datacamp.com/transcoded_mp4/682_intro_to_ml/v2/ch1_1.mp4
-thumbnail_link: //assets.datacamp.com/projector-thumbnails/course-development-team-about.png
+video_hls_link: //videos.datacamp.com/transcoded/1048_machine-learning-toolbox/w3/hls-max-interview.master.m3u8
+video_mp4_link: //videos.datacamp.com/interviews/Max_Kuhn_interview.mp4
 language: R
 topic: ML
 resources:
-  - link: "https://en.wikipedia.org/wiki/Machine_learning"
-    link_text: "Wikipedia Article"
-    description: "Read this article about Machine Learning."
-  - link: "https://en.wikipedia.org/wiki/Statistics"
-    link_text: "Wikipedia Article"
-    description: "Read this article about Statistics."
-instructor: filip@datacamp.com
-interviewer: vincent@datacamp.com
+  - link: "http://topepo.github.io/caret/index.html"
+    link_text: "The caret Package"
+    description: "Max Kuhn's caret package."
+instructor: max.kuhn@pfizer.com
+interviewer: nick@datacamp.com
