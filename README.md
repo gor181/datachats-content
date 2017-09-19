@@ -2,7 +2,7 @@
 
 This repository contains all the DataChats that are shown at www.datacamp.com/datachats. DataChats are videos where our instructor talk about their daily life as a Data Scientist.
 
-This repository is linked as a "DataChats repository" in teach: https://www.datacamp.com/teach/repositories/1500/branches/master. Every YAML file that you add to the root of this repository, will be parsed as a DataChat by Teach and will be uploaded to the [standalone datachats app](https://github.com/datacamp/datachats).
+This repository is linked as a "DataChats repository" in teach ([link](https://www.datacamp.com/teach/repositories/1500/branches/master)). Every YAML file that you add to the root of this repository, will be parsed as a DataChat by Teach and will be uploaded to the [standalone datachats app](https://github.com/datacamp/datachats).
 
 ### Fields in a DataChat
 
@@ -24,4 +24,12 @@ This repository already contains some DataChats. To add a new one:
 - Inside the file:
    + Remove the `id` (so you don't have id collisions and you don't accidentally override a DataChat)
    + Update all fields; make sure to remove the `projector_key` explicitly when you are going to add `video_xyz_link` fields; otherwise you can have projector key collision as well.
-- Add, commit and push the new files: `git add -A && git commit -m "add datachat" && git push origin master`
+- Add, commit and push the new files:
+
+```bash
+git add -A
+git commit -m "add datachat X"
+git push origin master
+```
+
+Your DataChat should now be visible at https://www.datacamp.com/datachats.
