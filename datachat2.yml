@@ -1,21 +1,15 @@
 id: 5
-title: The second DataChat
-description:  "The description of this second datachat. It is awesome. It's true."
+title: DataChats | Episode 2 | An Interview With Garrett Grolemund, Data Scientist at RStudio
+description:  "In this second episode, we interview Garrett Grolemund. 
+
+Garrett is a Data Scientist at RStudio and the author of Hands-On Programming with R and 
+R for Data Science from O'Reilly Media. He talks us through how he discovered R, the evolution of R, 
+what data science means to him and much more. "
 projector_key: a23c9d9c81924c2342bf5480adb0ffd2
-video_hls_link: //videos.datacamp.com/transcoded/682_intro_to_ml/v1/hls-ch1_2.master.m3u8
-video_mp4_link: //videos.datacamp.com/transcoded_mp4/682_intro_to_ml/v2/ch1_2.mp4
-thumbnail_link: //assets.datacamp.com/projector-thumbnails/course-development-team-about.png
+video_hls_link: 
+video_mp4_link: //videos.datacamp.com/interviews/Garret_Grolemund_interview.mp4
 language: R
-topic: ML
+topic: R Programming
 resources:
-  - link: "https://en.wikipedia.org/wiki/Machine_learning"
-    link_text: "Wikipedia Article"
-    description: "Read this article about Machine Learning."
-  - link: "https://en.wikipedia.org/wiki/Statistics"
-    link_text: "Wikipedia Article"
-    description: "Read this article about Statistics."
-  - link: "https://quivr.be"
-    link_text: "Quivr"
-    description: "The best app for students"
-instructor: vincent@datacamp.com
-interviewer: filip@datacamp.com
+instructor: garrettgrolemund@datacamp.com
+interviewer: nick@datacamp.com
