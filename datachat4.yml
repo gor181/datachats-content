@@ -1,0 +1,15 @@
+title: An Interview With David Robinson, Data Scientist at Stack Overflow
+description: "Dave is a Data Scientist at Stack Overflow and well known for his blog Variance Explained. 
+He talks about his passion for blogging, the importance of building a data science portfolio, why you should learn SQL 
+and much more."
+projector_key:
+video_mp4_link: //videos.datacamp.com/interviews/Dave_Robinson_interview.mp4
+thumbnail_link:
+language: R
+topic:
+resources:
+  - link: "https://www.datacamp.com/courses/exploratory-data-analysis-in-r-case-study"
+    link_text: "Exploratory Data Analysis in R: Case Study"
+    description: "Dave's exploratory data analysis in R case study course."
+instructor: drobinson@stackoverflow.com
+interviewer: nick@datacamp.com
