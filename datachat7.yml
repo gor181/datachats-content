@@ -1,0 +1,22 @@
+id: 
+title: An Interview With Mine Çetinkaya-Rundel
+description: "Mine is the Director of Undergraduate Studies and an Associate Professor of the Practice 
+in the Department of Statistical Science at Duke University.  She received my Ph.D. in Statistics from 
+the University of California, Los Angeles, and a B.S. in Actuarial Science from New York University’s 
+Stern School of Business. Her work focuses on innovation in statistics pedagogy, with an emphasis on 
+student-centered learning, computation, reproducible research, and open-source education. 
+Find Mine's website here: http://www2.stat.duke.edu/~mc301/
+
+Together with Nick, Mine talks about her path into becoming a Statistician, teaching R, 
+trends in the broader data science community and much more."
+projector_key: 
+video_mp4_link: //videos.datacamp.com/interviews/Mine_%C3%87etinkaya-Rundel_interview.mp4
+thumbnail_link:
+language: R
+topic: Statistics
+resources:
+  - link: "https://www.datacamp.com/courses/introduction-to-data"
+    link_text: "Introduction to Data"
+    description: "Mine's Introduction to Data course."
+instructor: mine@stat.duke.edu
+interviewer: nick@datacamp.com
