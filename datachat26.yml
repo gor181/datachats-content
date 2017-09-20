@@ -1,0 +1,12 @@
+id:
+title: An Interview With Filip
+description: "Short description"
+video_mp4_link: //videos.datacamp.com/interviews/Chester_Ismay_interview.mp4
+language: R
+topic: Test
+resources:
+  - link: "https://www.datacamp.com/courses/joining-data-in-postgresql"
+    link_text: "Joining Data in PostgreSQL"
+    description: "Chester's Joining Data in PostgreSQL course."
+instructor: chester@datacamp.com
+interviewer: nick@datacamp.com
