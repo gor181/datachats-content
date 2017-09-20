@@ -7,7 +7,7 @@ projector_key: e516e6c488095169c4080ec311b3ab81
 video_mp4_link: //videos.datacamp.com/interviews/Dave_Robinson_interview.mp4
 thumbnail_link:
 language: R
-topic:
+topic: Statistics
 resources:
   - link: "https://www.datacamp.com/courses/exploratory-data-analysis-in-r-case-study"
     link_text: "Exploratory Data Analysis in R: Case Study"
