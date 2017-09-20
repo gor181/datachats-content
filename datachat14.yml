@@ -1,12 +1,12 @@
 title: An Interview With Andreas Müller
-description: 'Andy is a lecturer at the Data Science Institute at Columbia University and
-author of the O'Reilly book "Introduction to machine learning with Python", describing a practical approach
+description: "Andy is a lecturer at the Data Science Institute at Columbia University and
+author of the O'Reilly book \"Introduction to machine learning with Python\", describing a practical approach
 to machine learning with python and scikit-learn. He is one of the core developers of the scikit-learn machine learning library,
-and he has been co-maintaining it for several years. He's also a Software Carpentry instructor. In the past, he worked at the NYU Center for Data Science on open source and open science, and as a Machine Learning Scientist at Amazon. His mission is to create open tools to lower the barrier of entry for machine learning applications,
+and he has been co-maintaining it for several years. He is also a Software Carpentry instructor. In the past, he worked at the NYU Center for Data Science on open source and open science, and as a Machine Learning Scientist at Amazon. His mission is to create open tools to lower the barrier of entry for machine learning applications,
 promote reproducible science and democratize the access to high-quality machine learning algorithms.
 
 Here, Andy answers questions about his work at Columbia, gives advice to people starting with data science and answers what
-the most difficult part of his job is.'
+the most difficult part of his job is."
 video_mp4_link: //videos.datacamp.com/interviews/Andreas_Muller_interview.mp4
 language: Python
 topic: ML
