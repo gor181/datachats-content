@@ -1,3 +1,4 @@
+id: 38
 title: An Interview With Daniel Chen
 description: "Here, Daniel talks about his upcoming book, whether to start learning python or R for data science,
 the best paths to becoming a data scientist and much more.
@@ -7,6 +8,7 @@ Computational Biology at Virginia Tech, where he works in the Social and Decisio
 the Biocomplexity Institute. He received his MPH at the Mailman School of Public Health in Epidemiology and
 is interested in integrating hospital data in order to perform predictive
 health analytics and build clinical support tools for clinicians. An advocate of open science, he aspires to bridge data science with epidemiology and health care."
+projector_key: 45038d8c7c7d47711146bece3de4e2be
 video_mp4_link: //videos.datacamp.com/interviews/Daniel_Chen_interview.mp4
 language: Python
 topic: Data Manipulation

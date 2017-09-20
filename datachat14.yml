@@ -1,3 +1,4 @@
+id: 36
 title: An Interview With Andreas Müller
 description: "Andy is a lecturer at the Data Science Institute at Columbia University and
 author of the O'Reilly book \"Introduction to machine learning with Python\", describing a practical approach
@@ -7,6 +8,7 @@ promote reproducible science and democratize the access to high-quality machine 
 
 Here, Andy answers questions about his work at Columbia, gives advice to people starting with data science and answers what
 the most difficult part of his job is."
+projector_key: adac49bb7d9590201cd01c7536b27a02
 video_mp4_link: //videos.datacamp.com/interviews/Andreas_Muller_interview.mp4
 language: Python
 topic: ML

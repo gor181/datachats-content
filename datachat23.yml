@@ -1,7 +1,9 @@
+id: 45
 title: An Interview With Colin Gillespie
 description: "Colin is the author of Efficient R Programming, published by O'Reilly media. 
 He is an Associate Professor of Statistics at Newcastle University, UK and regularly works with 
 Jumping Rivers to provide data science training and consultancy. He is the only person in history to move to Newcastle for better weather."
+projector_key: 00c7eade52dbe032eb65b3dcd2bc25c9
 video_mp4_link: //videos.datacamp.com/interviews/Colin_Gillespie_interview.mp4
 language: R
 topic: R Programming

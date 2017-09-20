@@ -1,3 +1,4 @@
+id: 52
 title: An Interview With Dhavide Aruliah
 description: "Dhavide Aruliah is Director of Training at Anaconda, the leading 
 Open Data Science platform powered by Python. Dhavide was previously an Associate Professor at the University of Ontario Institute of Technology (UOIT). 
@@ -5,6 +6,7 @@ He served as Program Director for various undergraduate & postgraduate programs 
 numerical linear algebra, & high-performance computing.
 
 Together with Hugo, Dhavide goes over the process of designing a course, his work at Anaconda, his path to Python and more." 
+projector_key: e0c263b1761dc5546b8c195fd52efcd0
 video_mp4_link: //videos.datacamp.com/interviews/Dhavide_Aruliah_interview.mp4
 language: Python
 topic: Data Manipulation

@@ -1,7 +1,9 @@
+id: 47
 title: An Interview With Chester Ismay
 description: "Chester builds (and helps instructors build) R and SQL courses for DataCamp. He obtained a PhD in Statistics from Arizona State University 
 and has taught courses and led workshops in mathematics, computer science, statistics, data science, and sociology. He is co-author of the fivethirtyeight R package and 
 author of the thesisdown R package. He is also a co-author of ModernDive, an open source textbook for introductory statistics and data science students using R."
+projector_key: fac6d81ea81ea38e484f42e810fcd8b4
 video_mp4_link: //videos.datacamp.com/interviews/Chester_Ismay_interview.mp4
 language: SQL
 topic: Data Manipulation

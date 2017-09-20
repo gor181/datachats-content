@@ -1,3 +1,4 @@
+id: 49
 title: An Interview With Jo Hardin
 description: "Jo is a Professor of Mathematics at Pomona College with many years of R experience.  
 She has a pure passion for education and has been working on the ASA’s undergraduate curriculum guidelines 
@@ -5,6 +6,7 @@ where she strongly advocated the infusion of data science into the undergraduate
 
 Together with Nick, Jo talks about R's place in the stats curriculum, the role of technology in education, 
 what advice she would give to people just starting in statistics, bootstrapping, and much more." 
+projector_key: 683c095522637c6721164b7cf68b9fbf
 video_mp4_link: //videos.datacamp.com/interviews/Jo_Hardin_interview.mp4
 language: R
 topic: Statistics

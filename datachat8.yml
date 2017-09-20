@@ -1,3 +1,4 @@
+id: 51
 title: An Interview With Ben Baumer
 description: "Ben is an Assistant Professor in the Statistical & Data Sciences Program at Smith College. 
 He completed his Ph.D. in Mathematics at the Graduate Center of the City University of New York in 2012. 
@@ -6,6 +7,7 @@ Statistical Analyst for the Baseball Operations department of the New York Mets.
 
 Together with Nick, Ben talks about his path to becoming a sabermetrician, his passion for teaching, 
 the importance of subject-matter expertise in data science and more."
+projector_key: d428d17b27d3b1e060e60c09b0f30d28
 video_mp4_link: //videos.datacamp.com/interviews/Ben_Baumer_interview.mp4
 language: R
 topic: Statistics

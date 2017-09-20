@@ -1,3 +1,4 @@
+id: 48
 title: An Interview With Ron Pearson
 description: "Ron holds a Ph.D. in Electrical Engineering and Computer Science from M.I.T. 
 and has written or co-written five books. Furthermore, he is the author and maintainer of the 
@@ -5,6 +6,7 @@ GoodmanKruskal R package, and one of the authors of the datarobot R package.
 
 Together with Nick, Ron talks about his passion for exploratory data analysis, 
 inliers (vs outliers), why he is so excited about the evolution of machine learning models and much more."
+projector_key: 6304b54243b3054ffee29c939cb62e55
 video_mp4_link: //videos.datacamp.com/interviews/Ron_Pearson_interview.mp4
 language: R
 topic: Data Visualization

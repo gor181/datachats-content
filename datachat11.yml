@@ -1,6 +1,8 @@
+id: 33
 title: An Interview With Ben Wilson
 description: "Ben is a machine learning specialist and the director of research at lateral.io. He is passionate about learning 
 and has worked as a data scientist in real-time bidding, e-commerce, and recommendation. Ben holds a PhD in mathematics and a degree in computer science."
+projector_key: 20d6557aadaadfa7ccaa3b13e866eac5
 video_mp4_link: //videos.datacamp.com/interviews/Ben_Wilson_interview.mp4
 language: Python
 topic: ML

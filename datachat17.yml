@@ -1,8 +1,10 @@
+id: 39
 title: An Interview With Rob Hyndman
 description: "Rob J. Hyndman is Professor of Statistics at Monash University, Australia, and Editor-in-Chief of the 
 International Journal of Forecasting. Rob is the author of over 150 research papers and books in statistical science. 
 In 2007, he received the Moran medal from the Australian Academy of Science for his contributions 
 to statistical research, especially in the area of statistical forecasting. He is the author of about 20 R packages, including the popular forecast package."
+projector_key: 5d5adba88070cef06933180a597837f1
 video_mp4_link: //videos.datacamp.com/interviews/Rob_Hyndman_interview.mp4
 language: R
 topic: Statistics

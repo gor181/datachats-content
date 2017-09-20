@@ -1,6 +1,8 @@
+id: 46
 title: An Interview With Brett Lantz
 description: "Brett Lantz is a data scientist at the University of Michigan and the author of Machine Learning with R. 
 After training as a sociologist, Brett has applied his endless thirst for data to projects that involve understanding and predicting human behavior."
+projector_key: 235d69afe745f334f75df662b7e22e6e
 video_mp4_link: //videos.datacamp.com/interviews/Brett_Lantz_interview.mp4
 language: R
 topic: Statistics

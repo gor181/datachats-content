@@ -1,5 +1,7 @@
+id: 43
 title: An Interview With Arnaud Amsellem
 description: "Arnaud has over 20 years of experience as a quantitative trader. He is creator and author of the R Trader blog (www.thertrader.com)."
+projector_key: 3f15a6515ba94fedb57e98000003a12c
 video_mp4_link: //videos.datacamp.com/interviews/Arnaud_Amsellem_interview.mp4
 language: R
 topic: Statistics
