@@ -1,0 +1,12 @@
+title: An Interview With Stefan Jansen
+description: "Stefan is Founder & Lead Data Scientist at Applied Artificial Intelligence. 
+He has 15 years of experience in finance and investments, with a big focus on emerging markets."
+video_mp4_link: //videos.datacamp.com/interviews/Stefan_Jansen_interview.mp4
+language: Python
+topic: Finance
+resources:
+  - link: "https://www.datacamp.com/courses/importing-managing-financial-data-in-python"
+    link_text: "Importing & Managing Financial Data in Python"
+    description: "Stefan's course on importing and managing financial data in Python."
+instructor: stefan@applied-ai.solutions
+interviewer: lore@datacamp.com
