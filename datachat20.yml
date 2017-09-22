@@ -1,5 +1,5 @@
 id: 42
-title: An Interview With Katharine Jarmul
+title: Katharine Jarmul, 13 June 2017
 description: "Katharine Jarmul runs a data analysis company called kjamistan that specializes in 
 helping companies analyze data and training others on data analysis best practices, particularly with Python. 
 She has been using Python for 8 years for a variety of data work -- including telling stories at major national newspapers, 
@@ -7,7 +7,7 @@ building large scale aggregation software, making decisions based on customer an
 projector_key: 95eea30c1876e9dae78603f4d63778aa
 video_mp4_link: //videos.datacamp.com/interviews/Katharine_Jarmul_interview.mp4
 language: Python
-topic: NLP
+topic: Natural Language Processing
 resources:
   - link: "https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python"
     link_text: "NLP Fundamentals in Python"
