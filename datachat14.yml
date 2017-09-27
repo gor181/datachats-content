@@ -11,7 +11,7 @@ the most difficult part of his job is."
 projector_key: adac49bb7d9590201cd01c7536b27a02
 video_mp4_link: //videos.datacamp.com/interviews/Andreas_Muller_interview.mp4
 language: Python
-topic: ML
+topic: Machine Learning
 resources:
   - link: "http://scikit-learn.org/"
     link_text: "scikit-learn documentation"
