@@ -4,6 +4,7 @@ description: "Brett Lantz is a data scientist at the University of Michigan and 
 After training as a sociologist, Brett has applied his endless thirst for data to projects that involve understanding and predicting human behavior."
 projector_key: 235d69afe745f334f75df662b7e22e6e
 video_mp4_link: //videos.datacamp.com/interviews/Brett_Lantz_interview.mp4
+thumbnail_link: //assets.datacamp.com/projector-thumbnails/datachats/Brett+Lantz%402x.png
 language: R
 topic: Machine Learning
 resources:
