@@ -1,0 +1,17 @@
+title: Julia Silge, 9 June 2017
+description: "Julia has a PhD in astrophysics and an abiding love for Jane Austen. 
+She worked in academia and ed tech before moving into data science and discovering R. 
+She enjoys making beautiful charts, programming in R, and communicating about technical topics 
+with diverse audiences. Her interests include data science and visualization, 
+text mining , and teaching. She, with co-author David Robinson, has written Text Mining with R."
+video_mp4_link: //videos.datacamp.com/interviews/Julia_Silge_interview.mp4
+language: R
+topic: Natural Language Processing
+resources:
+  - link: "https://www.datacamp.com/courses/sentiment-analysis-in-r-the-tidy-way"
+    link_text: "Sentiment Analysis in R: The Tidy Way"
+    description: "Julia's course on sentiment analysis."
+  - link: "https://github.com/juliasilge/tidytext"
+    link_text: "The tidytext R package"
+instructor: julia.silge@gmail.com
+interviewer: richie@datacamp.com
