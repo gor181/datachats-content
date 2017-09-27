@@ -5,6 +5,7 @@ how Charlotte uses data on the web for teaching,
 web APIs and R packages to access them, web scraping for social good, and data in the cloud vs. computing in the cloud."
 projector_key: b2e319a1f4aa27f5ed59d60daaa961f2
 video_mp4_link: //videos.datacamp.com/interviews/Oliver_Keyes_interview.mp4
+thumbnail_link: //assets.datacamp.com/projector-thumbnails/datachats/Oliver+and+Charlotte%402x.png
 language: R
 topic: R Programming
 resources:
