@@ -5,7 +5,7 @@ After training as a sociologist, Brett has applied his endless thirst for data t
 projector_key: 235d69afe745f334f75df662b7e22e6e
 video_mp4_link: //videos.datacamp.com/interviews/Brett_Lantz_interview.mp4
 language: R
-topic: Statistics
+topic: Machine Learning
 resources:
   - link: "https://www.datacamp.com/courses/supervised-learning-in-r-classification"
     link_text: "Supervised Learning in R: Classification"
