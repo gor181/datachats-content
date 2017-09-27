@@ -1,7 +1,8 @@
 id: 40
 title: Deepayan Sarkar, 29 March 2017
-description: "Deepayan is an Associate Professor at the Indian Statistical Institute, and a member of R-Core. 
-He is the creator of the lattice package, and the author of the corresponding book Lattice - Multivariate Data Visualization with R."
+description: "Richie and Deepayan chat about R-Core and R Foundation, how the lattice project came about, 
+how R has changed over the years, CRAN vs. Bioconductor, how he uses R, and interactive graphics in R. 
+Watch this to find out how to become a member of R-Core, and to hear about Deepayan’s secret use of Python!"
 projector_key: 3a576d17523ade319b07007cfbd0871d
 video_mp4_link: //videos.datacamp.com/interviews/Deepayan_Sarkar_interview.mp4
 language: R
