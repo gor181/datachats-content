@@ -1,3 +1,4 @@
+id: 58
 title: Charlotte Wickham & Oliver Keyes, 30 July 2017
 description: "Oliver is a long-time data scientist and currently works as a Ph.D. student and 
 instructor at the University of Washington. 
@@ -5,6 +6,7 @@ instructor at the University of Washington.
 Charlotte is an Assistant Professor in the Department of Statistics at Oregon State University 
 and an avid R programmer with a passion for teaching. 
 Her interests lie in spatiotemporal data, statistical graphics and computing, and environmental statistics."
+projector_key: b2e319a1f4aa27f5ed59d60daaa961f2
 video_mp4_link: //videos.datacamp.com/interviews/Oliver_Keyes_interview.mp4
 language: R
 topic: R Programming
