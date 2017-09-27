@@ -5,7 +5,7 @@ and has worked as a data scientist in real-time bidding, e-commerce, and recomme
 projector_key: 20d6557aadaadfa7ccaa3b13e866eac5
 video_mp4_link: //videos.datacamp.com/interviews/Ben_Wilson_interview.mp4
 language: Python
-topic: ML
+topic: Machine Learning
 resources:
   - link: "https://www.datacamp.com/courses/unsupervised-learning-in-python"
     link_text: "Unsupervised Learning in Python"
