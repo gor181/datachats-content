@@ -11,7 +11,7 @@ projector_key: 84beae062ab16558868a09aed18f8181
 video_mp4_link: //videos.datacamp.com/interviews/Max_Kuhn_interview.mp4
 thumbnail_link: //assets.datacamp.com/projector-thumbnails/course-development-team-about.png
 language: R
-topic: ML
+topic: Machine Learning
 resources:
   - link: "http://topepo.github.io/caret/index.html"
     link_text: "The caret Package"
