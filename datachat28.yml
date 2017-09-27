@@ -1,11 +1,8 @@
 id: 58
 title: Charlotte Wickham & Oliver Keyes, 30 July 2017
-description: "Oliver is a long-time data scientist and currently works as a Ph.D. student and 
-instructor at the University of Washington. 
-
-Charlotte is an Assistant Professor in the Department of Statistics at Oregon State University 
-and an avid R programmer with a passion for teaching. 
-Her interests lie in spatiotemporal data, statistical graphics and computing, and environmental statistics."
+description: "Richie chats to Oliver and Charlotte about the importance of web data, how Oliver isn’t a data scientist,
+how Charlotte uses data on the web for teaching, 
+web APIs and R packages to access them, web scraping for social good, and data in the cloud vs. computing in the cloud."
 projector_key: b2e319a1f4aa27f5ed59d60daaa961f2
 video_mp4_link: //videos.datacamp.com/interviews/Oliver_Keyes_interview.mp4
 language: R
