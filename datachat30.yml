@@ -1,0 +1,14 @@
+title: Dan Becker, 24 February 2017
+description: "Dan Becker is a Data Scientist with expertise in deep learning. 
+He has contributed to the Keras and Tensorflow libraries for deep learning, finished 2nd (out of 1353 teams) 
+in the $3 million Heritage Health Prize data mining competition, supervised data science consulting projects 
+for 6 companies in the Fortune 100 and taught deep learning workshops at events and conferences such as ODSC."
+video_mp4_link: //videos.datacamp.com/interviews/Dan_Becker_interview.mp4
+language: Python
+topic: Deep Learning
+resources:
+  - link: "https://www.datacamp.com/courses/deep-learning-in-python"
+    link_text: "Deep Learning in Python"
+    description: "Dan's course on deep learning."
+instructor: dansbecker@gmail.com
+interviewer: hugo@datacamp.com
