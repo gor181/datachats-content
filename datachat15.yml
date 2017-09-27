@@ -10,7 +10,7 @@ DrivenData competitions on using yelp data to predict restaurant sanitary rating
 projector_key: 1f1ddb1efb94958cccf9c2c1fbacf549
 video_mp4_link: //videos.datacamp.com/interviews/Peter_Bull_interview.mp4
 language: Python
-topic: ML
+topic: Machine Learning
 resources:
   - link: "https://www.datacamp.com/courses/machine-learning-with-the-experts-school-budgets"
     link_text: "Machine Learning with the Experts: School Budgets"
