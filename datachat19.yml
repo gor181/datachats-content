@@ -4,6 +4,7 @@ description: "Jason Myers is a software engineer and author. His area of experti
 He has also written the Essential SQLAlchemy book, co-authored with Rick Copeland, that introduces you to working with relational databases in Python."
 projector_key: 2623ea3f78137d7cd1beab14c62eba28
 video_mp4_link: //videos.datacamp.com/interviews/Jason_Myers_interview_2.mp4
+thumbnail_link: //assets.datacamp.com/projector-thumbnails/datachats/Jason+Myers%402x.png
 language: Python
 topic: Python Programming
 resources:
