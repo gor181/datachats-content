@@ -10,7 +10,7 @@ and blogs at the Win-Vector Blog about data science and R programming. His inter
 projector_key: 4ead6b8ffa52d70d8b174eb12a4227eb
 video_mp4_link: //videos.datacamp.com/interviews/Nina_Zumel_and_John_Mount_interview.mp4
 language: R
-topic: ML
+topic: Machine Learning
 resources:
   - link: "https://www.datacamp.com/courses/supervised-learning-in-r-regression"
     link_text: "Supervised Learning in R: Regression"
