@@ -1,3 +1,4 @@
+id: 57
 title: Justin Bois, 14 August 2017
 description: "Justin Bois is a lecturer in the Division of Biology and Biological Engineering 
 at the California Institute of Technology. He teaches nine different classes there, nearly all of 
@@ -7,6 +8,7 @@ biological sciences with quantitative tools, particularly data analysis skills.
 Beyond biologists, he is thrilled to develop courses for DataCamp. In this DataChat, Hugo and Justin discuss
 different aspects of data science, including data science education, 
 and Justin shares his advice to those getting started in the field."
+projector_key: 0a7f04995f4a071cd2299fb8f7558592
 video_mp4_link: //videos.datacamp.com/interviews/Justin_Bois_interview_2.mp4
 language: Python
 topic: Statistics
