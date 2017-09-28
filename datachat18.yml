@@ -12,5 +12,14 @@ resources:
   - link: "https://www.datacamp.com/courses/data-visualization-in-r-with-lattice"
     link_text: "Data Visualization in R with lattice"
     description: "Deepayan's course on Data Visualization in R with lattice."
+  - link: "https://www.springer.com/us/book/9780387759685"
+    link_text: "Lattice - Multivariate Data Visualization with R"
+    description: A book on lattice written by Deepayan.
+  - link: "http://lmdvr.r-forge.r-project.org/figures/figures.html"
+    link_text: "Lattice figures and code"
+    description: "The website accompanying Deepayan's book, with many code examples."
+  - link: "http://www.isid.ac.in/~deepayan"
+    link_text: "Indian Statistical Institute"
+    description: "Deepayan's homepage at the ISI"
 instructor: deepayan.sarkar@gmail.com
 interviewer: nick@datacamp.com
