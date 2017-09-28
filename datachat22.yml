@@ -11,6 +11,15 @@ topic: Machine Learning
 resources:
   - link: "https://www.datacamp.com/courses/supervised-learning-in-r-regression"
     link_text: "Supervised Learning in R: Regression"
-    description: "Nina's and John's course on Supervised Learning."
+    description: "Nina and John's course on Supervised Learning."
+  - link: "https://www.manning.com/books/practical-data-science-with-r"
+    link_text: "Practical Data Science with R"
+    description: "A book written by Nina and John."
+  - link: "www.win-vector.com/site"
+    link_text: "Win-Vector LLC"
+    description: "Nina and John's consultancy, with a blog."
+  - link: "https://github.com/WinVector/vtreat"
+    link_text: "vtreat"
+    description: "The GitHub repository for the vtreat package."
 instructor: nzumel@win-vector.com
 interviewer: richie@datacamp.com
