@@ -11,5 +11,23 @@ thumbnail_link: //assets.datacamp.com/projector-thumbnails/datachats/Garrett+Gro
 language: R
 topic: R Programming
 resources:
+  - link: "https://www.datacamp.com/courses/dplyr-data-manipulation-r-tutorial"
+    link_text: "Data Manipulation in R with dplyr"
+    description: "Garrett's course on manipulating data in R with dplyr."
+  - link: "https://www.datacamp.com/courses/joining-data-in-r-with-dplyr"
+    link_text: "Joining Data in R with dplyr"
+    description: "Garrett's course on joining data in R with dplyr."
+  - link: "https://www.datacamp.com/courses/ggvis-data-visualization-r-tutorial"
+    link_text: "Data Visualization in R with ggvis"
+    description: "Garrett's course on visualizing data in R with the ggvis package."
+  - link: "https://www.datacamp.com/courses/working-with-the-rstudio-ide-part-1"
+    link_text: "Working with the RStudio IDE (Part 1)"
+    description: "Garrett's first course on working with the RStudio IDE."
+  - link: "https://www.datacamp.com/courses/working-with-the-rstudio-ide-part-2"
+    link_text: "Working with the RStudio IDE (Part 2)"
+    description: "Garrett's second course on working with the RStudio IDE."
+  - link: "https://www.datacamp.com/courses/reporting-with-r-markdown"
+    link_text: "Reporting with R Markdown"
+    description: "Garrett's course on how to create data reports using R Markdown."
 instructor: garrettgrolemund@datacamp.com
 interviewer: nick@datacamp.com
