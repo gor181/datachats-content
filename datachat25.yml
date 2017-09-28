@@ -1,11 +1,6 @@
 id: 47
 title: Chester Ismay, 9 August 2017
-description: "Chester builds (and helps instructors build) R and SQL courses for DataCamp. Chester has experience working 
-as an actuary, as a professor, and as a statistical/data scientist consultant in academia.  
-In addition, he has worked as a consultant for actuarial firms and the Portland Trailblazers NBA team. 
-He is co-author of the fivethirtyeight R package and
-author of the thesisdown R package. He is also a co-author of ModernDive, an open source 
-textbook for introductory statistics and data science students using R."
+description: "Chester builds (and helps instructors build) R and SQL courses for DataCamp. Chester has experience working as an actuary, as a professor, and as a statistical/data scientist consultant in academia. In addition, he has worked as a consultant for actuarial firms and the Portland Trailblazers NBA team. He is co-author of the fivethirtyeight R package and author of the thesisdown R package. He is also a co-author of ModernDive, an open source textbook for introductory statistics and data science students using R."
 projector_key: fac6d81ea81ea38e484f42e810fcd8b4
 video_mp4_link: //videos.datacamp.com/interviews/Chester_Ismay_interview.mp4
 thumbnail_link: //assets.datacamp.com/projector-thumbnails/datachats/Chester+Ismay%402x.png
@@ -22,7 +17,7 @@ resources:
     link_text: "The fivethirtyeight R package"
     description: "Co-authored by Chester, this package contains the datasets and code published by the data journalism website 'FiveThirtyEight'."
   - link: "https://github.com/ismayc/thesisdown"
-    link_description: "The thesisdown R package"
+    link_text: "The thesisdown R package"
     description: "A package authored by Chester to help write theses."
 instructor: chester@datacamp.com
 interviewer: nick@datacamp.com
