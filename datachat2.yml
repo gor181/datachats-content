@@ -19,7 +19,7 @@ resources:
     description: "Garrett's course on joining data in R with dplyr."
   - link: "https://www.datacamp.com/courses/ggvis-data-visualization-r-tutorial"
     link_text: "Data Visualization in R with ggvis"
-    description: "Garrett's course on visualizing data in R with the ggvis package."
+    description: "Garrett's course on visualizing data in R with ggvis."
   - link: "https://www.datacamp.com/courses/working-with-the-rstudio-ide-part-1"
     link_text: "Working with the RStudio IDE (Part 1)"
     description: "Garrett's first course on working with the RStudio IDE."
