@@ -14,5 +14,9 @@ resources:
     description: "Julia's course on sentiment analysis."
   - link: "https://github.com/juliasilge/tidytext"
     link_text: "The tidytext R package"
+    description: "A package on tidy text mining, co-authored by Julia."
+  - link: "http://shop.oreilly.com/product/0636920067153.do"
+    link_text: "Text Mining in R"
+    description: "A book on text mining in R, co-authored by Julia."
 instructor: julia.silge@gmail.com
 interviewer: richie@datacamp.com
