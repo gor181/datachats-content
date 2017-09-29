@@ -22,6 +22,6 @@ resources:
     link_text: "vtreat"
     description: "The GitHub repository for the vtreat package."
 instructors: 
-  - nzumel@win-vector.com
   - jmount@win-vector.com
+  - nzumel@win-vector.com
 interviewer: richie@datacamp.com
