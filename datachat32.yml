@@ -1,0 +1,12 @@
+title: David Robinson, 3 October 2017
+description: "Dave is a Data Scientist at Stack Overflow and well known for his blog Variance Explained."
+video_mp4_link: //videos.datacamp.com/interviews/Dave_Robinson_interview_3.mp4
+thumbnail_link: //assets.datacamp.com/projector-thumbnails/datachats/David+Robinson+%402x.png
+language: R
+topic: Statistics
+resources:
+  - link: "https://www.datacamp.com/courses/introduction-to-the-tidyverse"
+    link_text: "Introduction to the Tidyverse"
+    description: "Dave's introduction to the tidyverse course."
+instructor: drobinson@stackoverflow.com
+interviewer: hugo@datacamp.com
