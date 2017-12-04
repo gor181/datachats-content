@@ -8,5 +8,6 @@ resources:
   - link: "https://www.datacamp.com/courses/introduction-to-the-tidyverse"
     link_text: "Introduction to the Tidyverse"
     description: "Dave's introduction to the tidyverse course."
-instructor: drobinson@stackoverflow.com
+instructors: 
+  - drobinson@stackoverflow.com
 interviewer: hugo@datacamp.com
