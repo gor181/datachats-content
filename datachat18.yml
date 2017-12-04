@@ -21,5 +21,6 @@ resources:
   - link: "http://www.isid.ac.in/~deepayan"
     link_text: "Indian Statistical Institute"
     description: "Deepayan's homepage at the ISI"
-instructor: deepayan.sarkar@gmail.com
+instructors:
+  - deepayan.sarkar@gmail.com
 interviewer: nick@datacamp.com

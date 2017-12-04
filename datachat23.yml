@@ -12,5 +12,6 @@ resources:
   - link: "https://www.datacamp.com/courses/writing-efficient-r-code"
     link_text: "Writing Efficient R Code."
     description: "Colin's course on writing efficient R code."
-instructor: colin@jumpingrivers.com
+instructors:
+  - colin@jumpingrivers.com
 interviewer: richie@datacamp.com

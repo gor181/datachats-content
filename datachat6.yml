@@ -15,5 +15,6 @@ resources:
   - link: "https://www.datacamp.com/courses/foundations-of-inference"
     link_text: "Foundations of Inference"
     description: "Jo's Foundations of Inference course."
-instructor: jo.hardin@pomona.edu
+instructors:
+  - jo.hardin@pomona.edu
 interviewer: nick@datacamp.com

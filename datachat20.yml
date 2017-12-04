@@ -13,5 +13,6 @@ resources:
   - link: "https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python"
     link_text: "NLP Fundamentals in Python"
     description: "Katharine's course on NLP Fundamentals."
-instructor: katharine@kjamistan.com 
+instructors:
+  - katharine@kjamistan.com 
 interviewer: hugo@datacamp.com

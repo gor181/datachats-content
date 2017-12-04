@@ -12,5 +12,6 @@ resources:
   - link: "https://www.datacamp.com/courses/spatial-statistics-in-r"
     link_text: "Spatial Statistics in R"
     description: "Barry's course on spatial statistics."
-instructor: b.rowlingson@gmail.com
+instructors:
+  - b.rowlingson@gmail.com
 interviewer: richie@datacamp.com

@@ -11,5 +11,6 @@ resources:
   - link: "https://www.datacamp.com/courses/data-types-for-data-science"
     link_text: "Data Types for Data Science"
     description: "Jason's course on data types for data science."
-instructor: jason@mailthemyers.com  
+instructors:
+  - jason@mailthemyers.com  
 interviewer: hugo@datacamp.com

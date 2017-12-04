@@ -21,5 +21,6 @@ resources:
   - link: "https://www.datacamp.com/courses/merging-dataframes-with-pandas"
     link_text: "Merging DataFrames with pandas"
     description: "Anaconda's third pandas course."
-instructor: continuum@continuum.com
+instructors:
+  - continuum@continuum.com
 interviewer: hugo@datacamp.com

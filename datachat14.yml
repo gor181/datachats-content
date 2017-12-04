@@ -17,5 +17,6 @@ resources:
   - link: "http://scikit-learn.org/"
     link_text: "scikit-learn documentation"
     description: "Official page of the scikit-learn machine learning library."
-instructor: andy@andy.com
+instructors:
+  - andy@andy.com
 interviewer: hugo@datacamp.com

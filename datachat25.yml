@@ -19,5 +19,6 @@ resources:
   - link: "https://github.com/ismayc/thesisdown"
     link_text: "The thesisdown R package"
     description: "A package authored by Chester to help write theses."
-instructor: chester@datacamp.com
+instructors:
+  - chester@datacamp.com
 interviewer: nick@datacamp.com

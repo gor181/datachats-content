@@ -15,5 +15,6 @@ resources:
   - link: "https://www.datacamp.com/courses/data-visualization-in-r"
     link_text: "Data Visualization in R"
     description: "Ron's Data Visualization in R course."
-instructor: ronald.k.pearson@gmail.com
+instructors:
+  - ronald.k.pearson@gmail.com
 interviewer: nick@datacamp.com

@@ -18,5 +18,6 @@ resources:
   - link: "http://shop.oreilly.com/product/0636920067153.do"
     link_text: "Text Mining in R"
     description: "A book on text mining in R, co-authored by Julia."
-instructor: julia.silge@gmail.com
+instructors:
+  - julia.silge@gmail.com
 interviewer: richie@datacamp.com

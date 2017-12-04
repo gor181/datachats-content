@@ -12,5 +12,6 @@ resources:
   - link: "https://www.datacamp.com/courses/working-with-geospatial-data-in-r"
     link_text: "Working with Geospatial Data in R"
     description: "Charlotte's Geospatial Data in R course."
-instructor: cwickham@gmail.com
+instructors:
+  - cwickham@gmail.com
 interviewer: nick@datacamp.com

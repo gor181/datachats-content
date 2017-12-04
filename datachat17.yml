@@ -13,5 +13,6 @@ resources:
   - link: "https://www.datacamp.com/courses/forecasting-using-r"
     link_text: "Forecasting Using R"
     description: "Rob's Forecasting course."
-instructor: rob.hyndman@monash.edu
+instructors:
+  - rob.hyndman@monash.edu
 interviewer: lore@datacamp.com

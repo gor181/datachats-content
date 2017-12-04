@@ -11,5 +11,6 @@ resources:
   - link: "https://www.datacamp.com/courses/importing-managing-financial-data-in-python"
     link_text: "Importing & Managing Financial Data in Python"
     description: "Stefan's course on importing and managing financial data in Python."
-instructor: stefan@applied-ai.solutions
+instructors:
+  - stefan@applied-ai.solutions
 interviewer: lore@datacamp.com

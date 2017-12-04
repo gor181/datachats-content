@@ -11,5 +11,6 @@ resources:
   - link: "https://www.datacamp.com/courses/unsupervised-learning-in-r"
     link_text: "Unsupervised Learning in R"
     description: "Hank's Unsupervised Learning in R course."
-instructor: hankroark@datacamp.com  
+instructors:
+  - hankroark@datacamp.com  
 interviewer: nick@datacamp.com

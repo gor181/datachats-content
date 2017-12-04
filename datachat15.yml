@@ -16,5 +16,6 @@ resources:
   - link: "https://www.datacamp.com/courses/machine-learning-with-the-experts-school-budgets"
     link_text: "Machine Learning with the Experts: School Budgets"
     description: "Peter's DrivenData case study course."
-instructor: peter@drivendata.org
+instructors:
+  - peter@drivendata.org
 interviewer: hugo@datacamp.com

@@ -29,5 +29,6 @@ resources:
   - link: "https://www.datacamp.com/courses/reporting-with-r-markdown"
     link_text: "Reporting with R Markdown"
     description: "Garrett's course on how to create data reports using R Markdown."
-instructor: garrettgrolemund@datacamp.com
+instructors:
+  - garrettgrolemund@datacamp.com
 interviewer: nick@datacamp.com

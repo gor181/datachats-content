@@ -16,5 +16,6 @@ resources:
   - link: "http://topepo.github.io/caret/index.html"
     link_text: "The caret Package"
     description: "Max Kuhn's caret package."
-instructor: max.kuhn@pfizer.com
+instructors: 
+  - max.kuhn@pfizer.com
 interviewer: nick@datacamp.com

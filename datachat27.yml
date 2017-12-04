@@ -23,5 +23,6 @@ resources:
   - link: "https://www.datacamp.com/courses/case-studies-in-statistical-thinking"
     link_text: "Case Studies in Statistical Thinking"
     description: "Justin's case studies in Statistical Thinking course."  
-instructor: bois@caltech.edu
+instructors:
+  - bois@caltech.edu
 interviewer: hugo@datacamp.com

@@ -15,5 +15,6 @@ resources:
   - link: "https://www.datacamp.com/courses/arima-modeling-with-r"
     link_text: "ARIMA Modeling with R"
     description: "David's ARIMA Modeling with R course."
-instructor: stoffer@pitt.edu
+instructors:
+  - stoffer@pitt.edu
 interviewer: lore@datacamp.com

@@ -13,5 +13,6 @@ resources:
   - link: "https://www.datacamp.com/courses/bond-valuation-and-analysis-in-r"
     link_text: "Bond Valuation and Analysis in R"
     description: "Cliff's Bond Valuation and Analysis in R course."
-instructor: csa@cliffordang.com
+instructors:
+  - csa@cliffordang.com
 interviewer: lore@datacamp.com

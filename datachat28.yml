@@ -12,5 +12,7 @@ resources:
   - link: "https://www.datacamp.com/courses/working-with-web-data-in-r"
     link_text: "Working with Web Data in R"
     description: "Charlotte's and Oliver's course on working with web data in R."
-instructor: ironholds@protonmail.com
+instructors:
+  - ironholds@protonmail.com
+  - cwickham@gmail.com
 interviewer: richie@datacamp.com

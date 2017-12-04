@@ -13,5 +13,6 @@ resources:
   - link: "https://www.datacamp.com/courses/deep-learning-in-python"
     link_text: "Deep Learning in Python"
     description: "Dan's course on deep learning."
-instructor: dansbecker@gmail.com
+instructors:
+  - dansbecker@gmail.com
 interviewer: hugo@datacamp.com

@@ -12,5 +12,6 @@ resources:
   - link: "https://www.datacamp.com/courses/exploratory-data-analysis-in-r-case-study"
     link_text: "Exploratory Data Analysis in R: Case Study"
     description: "Dave's exploratory data analysis in R case study course."
-instructor: drobinson@stackoverflow.com
+instructors: 
+  - drobinson@stackoverflow.com
 interviewer: nick@datacamp.com

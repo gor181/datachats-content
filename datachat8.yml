@@ -16,5 +16,6 @@ resources:
   - link: "https://www.datacamp.com/courses/correlation-and-regression"
     link_text: "Correlation and Regression"
     description: "Ben's Correlation and Regression course."
-instructor: bbaumer@smith.edu
+instructors:
+  - bbaumer@smith.edu
 interviewer: nick@datacamp.com

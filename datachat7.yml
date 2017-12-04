@@ -18,5 +18,6 @@ resources:
   - link: "https://www.datacamp.com/courses/introduction-to-data"
     link_text: "Introduction to Data"
     description: "Mine's Introduction to Data course."
-instructor: mine@stat.duke.edu
+instructors:
+  - mine@stat.duke.edu
 interviewer: nick@datacamp.com

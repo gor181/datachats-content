@@ -11,5 +11,6 @@ resources:
   - link: "https://www.datacamp.com/courses/supervised-learning-in-r-classification"
     link_text: "Supervised Learning in R: Classification"
     description: "Brett's Supervised Learning course."
-instructor: lantzb@umich.edu
+instructors:
+  - lantzb@umich.edu
 interviewer: nick@datacamp.com

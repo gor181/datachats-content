@@ -17,5 +17,6 @@ resources:
   - link: "https://www.datacamp.com/courses/cleaning-data-in-python"
     link_text: "Cleaning Data in Python"
     description: "Dan's Cleaning Data in Python course."
-instructor: dcheny@gmail.com
+instructors:
+  - dcheny@gmail.com
 interviewer: hugo@datacamp.com
