@@ -11,6 +11,5 @@ resources:
   - link: "https://www.datacamp.com/courses/working-with-dates-and-times-in-r"
     link_text: "Working with Dates and Times in R"
     description: "Charlotte's course on working with dates and times in R."
-instructors: 
-  - cwickham@gmail.com
+instructor: cwickham@gmail.com
 interviewer: chester@datacamp.com
